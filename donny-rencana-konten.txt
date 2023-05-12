@@ -5,6 +5,7 @@ RENCAN KONTEN
   * Framework JS
    ^ Vue
    ^ React
+   ^ Angular
 - Struktur Data Dasar
 - PHP framework
   ^ Laravel
