@@ -3,7 +3,9 @@ RENCAN KONTEN
 - javascript
   * ES6
   * Framework JS
-- Struktur Data Dasar
+   ^ Angular
+   ^ React
 - PHP framework
+  ^ Laravel
 - interview
 - Vlogs
