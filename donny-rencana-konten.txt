@@ -3,9 +3,11 @@ RENCAN KONTEN
 - javascript
   * ES6
   * Framework JS
-   ^ Angular
+   ^ Vue
    ^ React
+- Struktur Data Dasar
 - PHP framework
   ^ Laravel
 - interview
 - Vlogs
+- Python
